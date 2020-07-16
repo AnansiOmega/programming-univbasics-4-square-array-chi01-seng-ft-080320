@@ -9,6 +9,6 @@ count += 1
 index += 1 
 
 end
-
+return new_array
 end
 

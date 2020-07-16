@@ -6,6 +6,7 @@ while count < array.length do
 
 count += 1   
 index += 1 
+return array
 end
 
 end

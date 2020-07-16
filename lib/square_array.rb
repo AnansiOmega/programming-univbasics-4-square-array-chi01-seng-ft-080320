@@ -8,6 +8,6 @@ count += 1
 index += 1 
 
 end
-
+return array[index]**2
 end
 
